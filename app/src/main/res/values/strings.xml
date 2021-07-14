@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">NMedia</string>
+    <string name="hello">NMedia</string>
+    <string name="menu_remove">Remove</string>
+    <string name="menu_edit">Edit</string>
+    <string name="empty_post_error">Empty post!</string>
+    <string name="edit_text">Edit message</string>
+    <string name="hint_post_text">Post text</string>
+    <string name="chooser_share_post">Share post</string>
+    <string name="error_empty_content">Content can\'t be empty</string>
+    <string name="channel_remote_name">Server notifications</string>
+    <string name="channel_remote_description">Notifications from remote server</string>
+    <string name="notification_user_liked">User %1$s liked %2$s\'s post</string>
+    <string name="notification_user_new_post">User %1$s published a new post</string>
+    <string name="update_app">You need to update app</string>
+    <string name="retry_loading">Retry</string>
+    <string name="empty_posts">There are no posts.\nIf you create a new post, it will appear here</string>
+    <string name="error_loading">Something went wrong</string>
+    <string name="new_posts_btn">↑ New posts</string>
+    <string name="menu_save">Save</string>
+    <string name="description_photo">Photo</string>
+    <string name="remove">Remove</string>
+    <string name="description_select_photo">Select photo</string>
+    <string name="description_take_photo">Take photo</string>
+    <string name="Sing_in">Sign In</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="sign_out">Sign Out</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Login</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome!"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="new_message">"New message"</string>
+</resources>

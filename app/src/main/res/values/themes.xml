@@ -1,0 +1,7 @@
+<resources>
+
+    <style name="ThemeOverlay.NMedia.FullscreenContainer" parent="">
+        <item name="fullscreenBackgroundColor">@color/black_overlay</item>
+        <item name="fullscreenTextColor">@color/text_color</item>
+    </style>
+</resources>
